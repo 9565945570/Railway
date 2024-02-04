@@ -1,0 +1,210 @@
+.top
+{
+   
+height: 140px;
+width: 100%;   
+}
+.top1
+{
+    height: 140px;
+    width: 60%;
+    float: left;
+}
+.icon
+{
+    height: 50px;
+    width: 40%;
+    background-color: grey;
+    float: left;
+}
+#g20
+{
+    height: 80px;
+    width: 150px;
+    float: left;
+   margin-right: 50px;
+}
+.helpline
+{
+    height: 70px;
+    width: 160px;
+    background-color: rgb(233, 227, 227);
+    float: left;
+    margin-left: -60px;
+    margin-top: 10px;
+}
+.helpline1
+{
+    height: 70px;
+    width: 160px;
+    background-color: rgb(233, 227, 227);
+    float: left;
+    margin-left: -60px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#nav
+{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(15, 126, 126);
+    float: left;
+}
+ul li
+{
+display: inline;
+margin: 12px;
+margin-top:15px ;
+}
+ul li a
+{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+.main
+{
+    height: 600px;
+    width: 100%;
+   
+    float: left;
+}
+.rightbox
+{
+    height:600px;
+    width: 65%;
+   
+    float: left;
+}
+#rightbox1
+{
+    height: 565px;
+    width: 80%;
+    
+    margin: 0px 0px 0px 140px;
+}
+.righttop
+{
+height: 35px;
+width: 100%;
+background-color: rgb(211, 60, 19);
+}
+.righttop1
+{
+height: 35px;
+width: 60%;
+background-color: rgb(41, 22, 22);
+float: left;
+}
+.righttop2
+{
+height: 35px;
+width: 40%;
+/* background-color: rgb(156, 21, 21); */
+float: left;
+}
+.leftbox
+{
+    height: 600px;
+    width: 35%;
+    float: left;
+    background-color: rgb(254, 254, 245);
+}
+#latest
+{
+    height: 100px;
+    width: 100%;
+    background-color: aliceblue;
+}
+#latest1
+{
+    height: 30px;
+    width: 25%;
+    background-color: #db8412;
+    float: left;
+    color: aliceblue;
+    text-align: center;
+}
+#latest2
+{
+    height: 30px;
+    width: 75%;
+    float: left;
+}
+#img
+{
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+#img1
+{
+    height: 200px;
+    width: 70%;
+    float: left;
+}
+#img2
+{
+    height: 200px;
+    width: 30%;
+    float: left;
+}
+#middle
+{
+    height: 400px;
+    width: 100%;
+    float: left;
+    margin-top: 200px;
+}
+.middle1
+{
+    height: 300px;
+    width: 25%;
+    margin: 4%;
+    float: left;
+}
+#metrocard
+{
+    height: 150px;
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+}
+#gallery1
+{
+    height: 400px;
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+
+
+.z
+{
+    height: 400px;
+    width: 100%;
+    /* background-color: #34dbeb; */
+    float: left;
+}
+.z1
+{
+    height: 300px;   
+    width: 10%;
+    float: left;
+    margin: 40px;
+    background-color: ##3b949c;
+}
+#footer
+{
+    height: 120px;
+    width: 100%;
+    margin: auto;
+    background-color: #0f7c86;
+    float: left;    
+}
+li
+{
+    color: black;
+}
